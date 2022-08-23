@@ -1,2 +1,2 @@
 # Search_burns
-<img src="/assets/Banner.png" style="width:400px;">
+<img src="/assets/Banner.png" style="width:1080px;">

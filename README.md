@@ -16,7 +16,7 @@ Universidad Industrial de Santander<br/>
 <br/>
 <b> Objetivo:</b><br/>
 Desarrollar e implementar un apoyo para los especialistas medicos e incluso personas del común para identificar y clasificar los tipos de quemaduras en la piel.<br/>
-Nota: Es un apoyo más no un reemplazo del mismo, siempre será necesario acudiar a un especialista en caso de una quemadura.
+<b>Nota:</b> Es un apoyo más no un reemplazo del mismo, siempre será necesario acudiar a un especialista en caso de una quemadura.
 
 <b>Principales algoritmos: </b><br/>
 

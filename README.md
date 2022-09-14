@@ -24,3 +24,5 @@ Desarrollar e implementar un apoyo para los especialistas medicos e incluso pers
 <b>Datos: </b>
 Cerca de 1300 imagenes de diferentes tipos de quemaduras de piel fueron usadas https://www.kaggle.com/datasets/shubhambaid/skin-burn-dataset 
 
+<b> Video: </b>
+https://youtu.be/Zk6MCWfK4mA

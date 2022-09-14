@@ -1,5 +1,5 @@
 # Search_burns
-<img src="/assets/Banner.png" style="width:1080px;">
+<img src="/assets/Banner.jpg" style="width:1080px;">
 
 <b>Presentado por:</b><br/>
 Esneydith Patricia Jaimes Benitez<br/>
